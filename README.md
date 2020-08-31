@@ -1,5 +1,6 @@
 
-[![Mario](http://www.garrettjohnson.net/images/fulls/mariofull.png)](http://www.garrettjohnson.net/mario)
+[(https://eguoli.github.io/keepmariogame/keepmariogame1.png)]
+[(https://eguoli.github.io/keepmariogame/keepmariogame2.png)]
 #Mario
 [Mario.js](www.garrettjohnson.net/mario "Mario.js") is a clone of Super Mario Bros. for the Nintendo Entertainment System, implemented in Javascript.  It implements a hand-built game engine using the HTML5 Canvas.
 
